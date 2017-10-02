@@ -1,0 +1,12 @@
+
+# dependencies
+/node_modules
+bower_components/
+
+.sass-cache/
+
+# testing
+/coverage
+
+# production
+dist/

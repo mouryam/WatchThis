@@ -1,0 +1,17 @@
+{
+  "name": "watchthis-app-client",
+  "description": "Aggregate your favorite movies and tv shows!",
+  "main": "index.html",
+  "authors": [
+    "Mourya Meda <medamourya@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "2.1.3",
+    "typeahead.js": "0.10.4",
+    "bootstrap": "v4.0.0-alpha.4"
+  },
+  "resolutions": {
+    "jquery": "1.9.1 - 3"
+  }
+}
