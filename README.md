@@ -11,6 +11,7 @@ It uses the [Serverless REST API](https://github.com/mouryam/watchthis-app-api) 
 
 ## Demo
 [WatchThis! - DEMO](http://d2mzx2ye3446ua.cloudfront.net/)
+User/Password (for the lazy): test/test123
 
 ## Tools
 Key tools used in this ReactJS project are:
