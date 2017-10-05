@@ -14,7 +14,10 @@ It uses the [Serverless REST API](https://github.com/mouryam/watchthis-app-api) 
 
           User/Password (for the lazy): 
           test/test123
+UPDATE: Keep encountering the following 500 POST response: {"status":false} for certain movies trying to be added into the list. With the following response header: x-cache:Error from cloudfront
 
+If anyone has any idea email me!
+          
 ## Tools
 Key tools used in this ReactJS project are:
 
